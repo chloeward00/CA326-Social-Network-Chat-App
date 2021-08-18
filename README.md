@@ -6,4 +6,3 @@ It is cross platform application for both IOS and Android where DCU registered s
 
 <h2> Grade: 78% </h2>
 
-https://www.fidelityinvestments.ie/job-details/13608898/fidelity-investments-technology-graduate-programme-dublin-ie/
